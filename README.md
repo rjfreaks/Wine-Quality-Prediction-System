@@ -34,3 +34,10 @@ The dataset includes physicochemical properties (e.g., acidity, pH, alcohol) of 
 1. 🔽 Clone the repository:
    ```bash
    git clone https://github.com/yourusername/wine-quality-prediction.git
+
+---
+## ✅ Results
+
+Logistic Regression performed best with:
+🎯 Accuracy: 86.67%
+The model can effectively classify wine quality based on input features.
